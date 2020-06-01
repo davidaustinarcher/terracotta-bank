@@ -646,7 +646,6 @@ http://www.tooplate.com/view/2080-minimax
 			  crossorigin="anonymous"></script>
 <script src="js/bootstrap.min.js"></script>	
 <script src="js/nivo-lightbox.min.js"></script>
-<script src="js/smoothscroll.js"></script>
 <script src="js/jquery.nav.js"></script>
 <script src="js/isotope.js"></script>
 <script src="js/imagesloaded.min.js"></script>

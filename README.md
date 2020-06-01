@@ -8,9 +8,10 @@ Terrcotta Bank binds locally to port 8080 by default, and while it is running, t
 
 Terracotta Bank is a fully-functional Spring Boot web application that lacks most common security mechanisms and makes numerous classic security mistakes.
  
-To run Terracotta Bank, simply clone the repo and then run:
+To run Terracotta Bank, simply clone the repo, cd to terracota-bank-servlet and then run:
 
 ```bash
+./gradlew build
 ./gradlew bootRun
 ```
 
