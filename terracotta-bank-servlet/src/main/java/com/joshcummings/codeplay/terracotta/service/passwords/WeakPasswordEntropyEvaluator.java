@@ -3,7 +3,7 @@ package com.joshcummings.codeplay.terracotta.service.passwords;
 import java.util.regex.Pattern;
 
 public class WeakPasswordEntropyEvaluator implements PasswordEntropyEvaluator {
-	private static final String SPECIAL_CHARACTERS = "!@#^";
+	private static final String SPECIAL_CHARACTERS = "!@#^%*&";
 
 	private static final Pattern HAS_LOWER = Pattern.compile("[a-z]");
 	private static final Pattern HAS_UPPER = Pattern.compile("[A-Z]");

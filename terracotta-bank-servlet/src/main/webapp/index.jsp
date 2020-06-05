@@ -331,7 +331,7 @@ http://www.tooplate.com/view/2080-minimax
 			<div class="col-md-12 col-sm-12">
 				<h2>Keep in touch</h2>
 			</div>
-			<form action="#" method="post" role="form">
+			<form action="#" method="post" role="form" id="contact">
 				<div class="col-md-1 col-sm-1"></div>
 				<div class="col-md-10 col-sm-10">
 					<div class="col-md-12 col-sm-12 messages"></div>
